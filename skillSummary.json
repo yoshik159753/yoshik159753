@@ -1,0 +1,62 @@
+[
+  {
+    "title": "プログラミング言語",
+    "titleEn": "lang",
+    "data": [
+      { "name": "Bash", "value": 6 },
+      { "name": "C/C++", "value": 2 },
+      { "name": "Java", "value": 4 },
+      { "name": "JavaScript", "value": 6 },
+      { "name": "PHP", "value": 10 },
+      { "name": "Python", "value": 7 },
+      { "name": "SQL", "value": 6 }
+    ]
+  },
+  {
+    "title": "フレームワーク",
+    "titleEn": "framework",
+    "data": [
+      { "name": "Bootstrap(CSS)", "value": 7 },
+      { "name": "FastAPI(Python)", "value": 5 },
+      { "name": "Flask(Python)", "value": 7 },
+      { "name": "Laravel(PHP)", "value": 9 },
+      { "name": "React(JavaScript)", "value": 5 },
+      { "name": "Spring(Java)", "value": 2 },
+      { "name": "Vue(JavaScript)", "value": 4 }
+    ]
+  },
+  {
+    "title": "使用ツール",
+    "titleEn": "tools",
+    "data": [
+      { "name": "Ansible", "value": 5 },
+      { "name": "Asciidoc", "value": 5 },
+      { "name": "Docker", "value": 5 },
+      { "name": "git", "value": 10 },
+      { "name": "Markdown", "value": 7 },
+      { "name": "SVN", "value": 3 },
+      { "name": "VSCode", "value": 10 }
+    ]
+  },
+  {
+    "title": "開発or管理",
+    "titleEn": "developmentOrManagement",
+    "data": [
+      { "name": "Developer", "value": 10 },
+      { "name": "Manager or Leader", "value": 3 }
+    ]
+  },
+  {
+    "title": "ソフトスキル",
+    "titleEn": "softSkills",
+    "data": [
+      { "name": "コミュニケーション", "value": 5 },
+      { "name": "オープンな姿勢", "value": 8 },
+      { "name": "問題解決能力", "value": 5 },
+      { "name": "批判的思考", "value": 5 },
+      { "name": "適応力", "value": 8 },
+      { "name": "情報整理力", "value": 8 },
+      { "name": "学習意欲", "value": 8 }
+    ]
+  }
+]
