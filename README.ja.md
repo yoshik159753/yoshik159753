@@ -1,9 +1,8 @@
-# よしけー です！👋
+# Yoshi K
 
-- 🔭 ウェブアプリエンジニアです！メインはバックエンド！フロントエンドもそれとなく！
-- 🌱 興味がある IT 技術は <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/></a><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25"/></a><a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="25" height="25"/></a> です！
-- 📫 メッセージなどはこちらへどうぞ！ [![Twitter Badge](https://img.shields.io/badge/-@YoshiK159753-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://mobile.twitter.com/yoshik159753)](https://mobile.twitter.com/yoshik159753)
-- ⚡ お気に入りは B'z や虚淵玄さんの作品などです！
+- 🔭 ウェブアプリエンジニアです。メインはバックエンド。フロントエンドもほどほどに対応できます。
+- 近年、業務で使用している技術スタックは <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25"/> </a><a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="25" height="25"/> </a> です。
+- プライベートで使用している技術スタックは <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/></a><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25"/></a><a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="25" height="25"/></a> です。
 
 ### スキルセット
 
