@@ -3,6 +3,7 @@
 - 札幌在住のウェブアプリエンジニアです。メインはバックエンド。フロントエンドもほどほどに対応できます。
 - 近年、業務で使用している技術スタックは <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25"/> </a><a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="25" height="25"/> </a> です。
 - プライベートで使用している技術スタックは <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/></a><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25"/></a><a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="25" height="25"/></a> です。
+- キャリアとしては開発がメインです。マネジメントやリーディングの経験は多くありませんが、少人数のチームであれば培ってきた経験をもとに対応できるかと考えています。
 
 ### スキルセット
 
