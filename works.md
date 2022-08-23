@@ -29,12 +29,13 @@ MongoDB 向けの WebAPI 開発に取り組みました。
 - チーム規模: 1~3 名
 - 役割: バックエンドエンジニア
 - システム形態: Web アプリケーション
-- 技術スタック: Linux(Ubuntu), MongoDB, Python, Flask, Ansible, git, Swagger
+- 技術スタック: Linux(Ubuntu), MongoDB, Python, Flask, Ansible, git, Swagger, LXD
 
 ##### 実務内容
 
 - 外部システムが MongoDB を操作するための WebAPI の開発
 - セキュリティ考慮により、エンドユーザーごとにアプリケーションを立ち上げる仕組みを Ansible にて提供
+- Ansible の動作検証として LXD によるコンテナ環境を構築
 - Swagger を用いてお客さまと API の仕様の調整
 
 ### 衛星データ向け GIS サービスの開発 (2019 年 5 月 〜 2020 年 6 月)
